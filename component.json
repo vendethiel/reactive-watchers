@@ -1,0 +1,8 @@
+{
+  "name": "reactive-watchers",
+  "version": "0.0.1",
+  "scripts": ["index.ls"],
+  "dependencies": {
+    "ianstormtaylor/to-pascal-case": "0.0.2"
+  }
+}
