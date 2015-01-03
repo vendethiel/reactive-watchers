@@ -6,7 +6,7 @@ Bindings generator for [Reactive](https://github.com/component/reactive) and [Mo
 ### Install
 
 ```
-$ component install Nami-Doc/reactive-watchers
+$ component install vendethiel/reactive-watchers
 ```
 
 ### Usage
